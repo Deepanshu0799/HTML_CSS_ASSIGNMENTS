@@ -1,0 +1,30 @@
+.parent1{
+    width: 100%;
+    background-color: gray;
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    justify-content: space-evenly;
+}
+
+.parent2{
+    width: 100%;
+    background-color:black;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+.ele1{
+    height: 200px;
+    width: 15%;
+    background-color: red;
+
+}
+
+.ele2{
+    height: 200px;
+    width: 20%;
+    background-color:gray;
+    display: inline-block;
+    margin-left: 50px;
+}
